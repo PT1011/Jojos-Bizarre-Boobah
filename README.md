@@ -16,7 +16,7 @@ Final exam practice
 
 ## Question 4
 - Alias Error
-- The columns in the select and where clause had no errors so the program didn't know which specific ones to run
+- The columns in the select and where clause had no aliases so the program didn't know which specific ones to run
 
 ## Question 5
 - Logic error
